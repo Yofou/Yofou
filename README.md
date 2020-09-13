@@ -6,7 +6,7 @@ I think I'm making good progress and most of all enjoying myself.
 
 📚 Languages
   * Python (Advanced 5+ years)
-  * Javascript (Advanced 5+ years)
+  * Javascript (Deno/Node) (Advanced 5+ years)
   * C# (Beginner/Intermedite 1 & 1/2 years)
  
 📽️ Current Project (Last updated 13/09/2020)
