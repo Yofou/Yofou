@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**Yofou/Yofou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Hey I'm Yofou**, but my real name is Nathan, I'm a programming enthusiast that loves to learn new things.
+I work mainly on chat bot ( mainly discord & twitch ) so I work alot with public apis and if needed
+web scrapping for public data. I'm also slowly learning web & game devolpement although still fairly new
+I think I'm making good progress and most of all enjoying myself.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Languages
+  * Python (Advanced 5+ years)
+  * Javascript (Advanced 5+ years)
+  * C# (Beginner/Intermedite 1 & 1/2 years)
+ 
+📽️ Current Project (Last updated 13/09/2020)
+  * Giveaway bot (discord api with discordeno)
+  * Learning Godot (game engine uses gdscript and abit c#)
+  * p5.js 
