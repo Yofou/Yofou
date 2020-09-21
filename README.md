@@ -8,6 +8,7 @@ I think I'm making good progress and most of all enjoying myself.
   * Python (Advanced 5+ years)
   * Javascript (Deno/Node) (Advanced 5+ years)
   * C# (Beginner/Intermedite 1 & 1/2 years)
+  * Kotlin/Java (Beginner 1 weeek)
  
 📽️ Current Project (Last updated 13/09/2020)
   * Giveaway bot (discord api with discordeno)
