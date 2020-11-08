@@ -11,6 +11,5 @@ I think I'm making good progress and most of all enjoying myself.
   * Kotlin/Java (Beginner 1 week)
  
 📽️ Current Project (Last updated 13/09/2020)
-  * Giveaway bot (discord api with discordeno)
-  * Learning Godot (game engine uses gdscript and abit c#)
+  * Learning Vue.
   * p5.js 
