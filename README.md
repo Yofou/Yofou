@@ -1,5 +1,5 @@
 # My Memorandum
-**Hey I'm Yofou**, but my real name is Nathan, I've been problem solving enthusiast since I was wee bambi.
+**Hey I'm Yofou**, but my real name is Nathan, I've been a problem solving enthusiast since I was wee bambi.
 In my spare time I'm building frontend application from frontend-mentor and turning them into fullstack application (where I can)
 or chating/helping other liked minded members in various online communities. Professionally by trade I'm software engineering consultant
 currently positioned with [Visual Boston](https://www.visualboston.com/) however I'm always looking for a new intresting problem to solve
