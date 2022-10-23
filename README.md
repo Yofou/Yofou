@@ -8,8 +8,8 @@ so let me know at `reach@yofou.dev`.
 ## 📚 Languages
 * Javascript (Deno/Node) (7+ years)
 * Python (5+ years)
-* C# (1 & 1/2 years)
 * Kotlin (2+ years)
+* C# (1 & 1/2 years)
 
 ## 💻 What I've worked with
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
