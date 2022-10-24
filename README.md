@@ -1,9 +1,5 @@
 # My Memorandum
-**Hey I'm Yofou**, but my real name is Nathan, I've been a problem solving enthusiast since I was a wee bambi.
-In my spare time, I'm building frontend applications from frontend-mentor and turning them into fullstack applications (where I can),
-or I'm chating/helping with other liked minded members in various online communities. Professionally by trade I'm a software engineering consultant
-currently positioned with [Visual Boston](https://www.visualboston.com/). However, I'm always looking for a new & enticing problem to solve
-so let me know at `reach@yofou.dev`.
+**Hey I'm Yofou**, but my real name is Nathan, I've been a problem-solving enthusiast since I was a wee bambi. In my spare time, I convert concepts from [frontend-mentor](https://www.frontendmentor.io) into fullstack applications. You can ofton find me chating and helping with liked minded members of various online communities. Professionally by trade I'm a software engineering consultant currently with [Visual Boston](https://www.visualboston.com/). However, I'm always open to new & enticing problems to solve so let’s connect at `reach@yofou.dev`.
 
 ## 📚 Languages
 * Javascript (Deno/Node) (7+ years)
